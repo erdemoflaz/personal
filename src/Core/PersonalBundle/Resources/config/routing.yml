@@ -1,0 +1,3 @@
+core_personal_homepage:
+    path:     /
+    defaults: { _controller: CorePersonalBundle:Default:index }

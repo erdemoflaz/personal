@@ -1,0 +1,4 @@
+services:
+#    core_personal.example:
+#        class: Core\PersonalBundle\Example
+#        arguments: ["@service_id", "plain_value", %parameter%]
